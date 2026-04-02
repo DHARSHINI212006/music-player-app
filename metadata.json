@@ -1,0 +1,5 @@
+{
+  "name": "VibeStream Music Player",
+  "description": "An interactive music player with playlist management, filtering, and sorting features.",
+  "requestFramePermissions": []
+}
